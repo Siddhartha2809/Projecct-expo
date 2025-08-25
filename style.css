@@ -1,6 +1,8 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #0d1117;
+    background-image: url("back.png");
+    background-size: cover;
+    background-position: center;
     color: #c9d1d9;
     margin: 0;
     padding: 0;
@@ -192,4 +194,5 @@ header p {
     border: 2.5px solid #30363d;
     display: block;
     margin: 0 auto;
+
 }
